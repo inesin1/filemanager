@@ -1,0 +1,13 @@
+[
+    {
+        "login":"admin",
+        "password":"Aa135Aa",
+        "permissions":"all"
+    },
+
+    {
+        "login":"anon",
+        "password":"darth333",
+        "permissions":"read"
+    }
+]

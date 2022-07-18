@@ -1,0 +1,24 @@
+.auth-form {
+    display: flex;
+    flex-direction: column;
+
+    background-color: #AAABB8;
+    
+    padding: 12px;
+    margin: 34px 540px;
+}
+
+.auth-form_input {
+    margin-bottom: 12px;
+
+    padding: 4px 6px;
+}
+
+.auth-form_header {
+    margin-bottom: 6px;
+}
+
+#a_submit {
+    margin-top: 4px;
+    margin-bottom: 0;
+}
