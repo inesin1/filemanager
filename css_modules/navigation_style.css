@@ -12,7 +12,7 @@
 
     background-color: #464866;
 
-    padding: 14px 26px;    
+    padding: 14px 26px;
 }
 
 .nav-button {
@@ -94,4 +94,12 @@
 
 .open-flex {
     display: flex;
+}
+
+
+/********/
+/*Mobile*/
+/********/
+@media (max-width: 800px) {
+
 }

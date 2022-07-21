@@ -51,4 +51,6 @@
 .files-table table tr td .actions {
     display: flex;
     flex-direction: row;
+
+    justify-content: space-around;
 }

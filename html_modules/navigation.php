@@ -17,7 +17,7 @@
     ?>
 
     <form method="POST" action="../scripts/uploadFile.php" enctype="multipart/form-data" class="upload-form">
-        <input type="file" name="uploadedFile"/>
+        <input type="file" name="uploadedFiles[]" multiple/>
         <input type="hidden" value="../<?=$dir?>/" name="dir"/>
         <input type="submit" name="upload-button" value="ОК" class="nav-button" id="upload-button"/>
 
